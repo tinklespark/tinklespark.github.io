@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Welcome to my blog!
+Welcome to my little corner of the internet.
 
-Hello! This is my new blog. I'll be writing about things I'm interested in.
+I'll be writing about things I'm learning, building, and thinking about.

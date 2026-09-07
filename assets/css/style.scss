@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background: #121212;
+  color: #e5e5e5;
+}
+
+a {
+  color: #8ab4f8;
+}
+
+.site-header {
+  background: #121212;
+  border-top: 5px solid #8ab4f8;
+  border-bottom: 1px solid #333;
+}
+
+.site-title,
+.site-nav .page-link {
+  color: #e5e5e5;
+}
+
+.post-list li,
+.post-content {
+  color: #e5e5e5;
+}
+
+blockquote {
+  color: #aaa;
+  border-left-color: #555;
+}
+
+code,
+pre {
+  background: #1e1e1e;
+  border-color: #333;
+}

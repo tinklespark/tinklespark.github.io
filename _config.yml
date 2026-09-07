@@ -1,3 +1,5 @@
 title: tinklespark's blog
 description: fun blog
 remote_theme: "jekyll/minima@4de3223"
+minima:
+  skin: dark

@@ -1,6 +1,12 @@
 ---
 layout: home
 ---
+<style>
+.post-link {
+  color: #c16ad1;
+}
+</style>
+
 
 Welcome to my little corner of the internet.
 

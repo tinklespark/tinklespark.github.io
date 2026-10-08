@@ -4,9 +4,9 @@ layout: home
 
 ---
 
-<style> .post-link { color: #c16ad1 !important; }
+<style> .post-link { color: #d895db !important; }
 
-.post-link:hover { color: #a84fba !important; } </style>
+.post-link:hover { color: #bd80bf !important; } </style>
 
 Welcome to my little corner of the internet.
 
